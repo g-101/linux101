@@ -1,4 +1,6 @@
-# O que é Linux?
+# Introdução ao GNU/Linux
+
+## O que é Linux?
 
 O Linux é um kernel.
 
@@ -32,4 +34,4 @@ Existem distribuições adequadas a finalidades imagináveis. Há distribuiçõe
 -   Kali Linux
 -   Android
 
-[Próximo](./01-linha-de-comando.md)
+[Próximo](/01-linha-de-comando/01-linha-de-comando.md)
