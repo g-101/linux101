@@ -4,7 +4,7 @@ O Linux é um kernel.
 
 Linux significa o kernel do sistema, que é o núcleo, o controlador central que gerencia e estabelece a comunicação entre o hardware e o software.
 
-Quando as pessoas se refere ao Linux, na verdade estão se referindo a uma combinação de software chamada **GNU/Linux**. (Ferramentas do projeto GNU + Kernel Linux).
+Quando as pessoas chamam o sistema operacional de Linux, na verdade estão se referindo a uma combinação de software chamada **GNU/Linux(ferramentas do projeto GNU + kernel Linux)**.
 
 **Leia mais:**
 
@@ -32,4 +32,4 @@ Existem distribuições adequadas a finalidades imagináveis. Há distribuiçõe
 -   Kali Linux
 -   Android
 
-[Próximo](./01-open-source.md)
+[Próximo](./01-linha-de-comando.md)
