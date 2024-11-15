@@ -22,7 +22,7 @@ Muitos softwares são "proprietários", o que significa que você tem o direito 
 
 Por conta da filosofia de software livre, indivíduos e até mesmo empresas começaram a adicionar seus proprios conjuntos de software,junto com o kernel linux, formando as distribuições/distros .
 
-Existem distribuições adequadas a finalidades imagináveis. Há distribuições que se concentram na execução de servidores, desktops ou até mesmo ferramentas específicas do setor, como cibersegurança.
+Existem distribuições adequadas a diversas finalidades. Há distribuições que se concentram na execução de servidores, desktops ou até mesmo especificamente a setores, como cibersegurança.
 
 **As principais distros:**
 
